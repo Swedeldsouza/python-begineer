@@ -10,3 +10,7 @@ https://data-flair.training/blogs/python-variables-and-data-types/
 
 3.built in function 
 https://data-flair.training/blogs/python-built-in-functions/
+
+
+4.String function
+https://data-flair.training/blogs/python-string/
