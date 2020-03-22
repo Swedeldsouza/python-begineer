@@ -14,3 +14,7 @@ https://data-flair.training/blogs/python-built-in-functions/
 
 4.String function
 https://data-flair.training/blogs/python-string/
+
+
+5.Range () function
+https://data-flair.training/blogs/python-range-function/
