@@ -18,3 +18,7 @@ https://data-flair.training/blogs/python-string/
 
 5.Range () function
 https://data-flair.training/blogs/python-range-function/
+
+
+6.zip function 
+https://data-flair.training/blogs/python-zip-function/
