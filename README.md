@@ -22,3 +22,6 @@ https://data-flair.training/blogs/python-range-function/
 
 6.zip function 
 https://data-flair.training/blogs/python-zip-function/
+
+7.Eval function
+https://data-flair.training/blogs/python-eval-function/
