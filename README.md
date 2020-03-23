@@ -30,3 +30,7 @@ https://data-flair.training/blogs/python-eval-function/
 8.Exec Function
 https://data-flair.training/blogs/python-exec-function/
 
+
+9.repr function
+https://data-flair.training/blogs/python-repr-function/
+
