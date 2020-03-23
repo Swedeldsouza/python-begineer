@@ -25,3 +25,8 @@ https://data-flair.training/blogs/python-zip-function/
 
 7.Eval function
 https://data-flair.training/blogs/python-eval-function/
+
+
+8.Exec Function
+https://data-flair.training/blogs/python-exec-function/
+
