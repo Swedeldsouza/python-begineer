@@ -34,3 +34,9 @@ https://data-flair.training/blogs/python-exec-function/
 9.repr function
 https://data-flair.training/blogs/python-repr-function/
 
+
+
+
+10.pandas 
+http://python-ds.com/python-pandas
+
