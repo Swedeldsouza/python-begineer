@@ -40,3 +40,5 @@ https://data-flair.training/blogs/python-repr-function/
 10.pandas 
 http://python-ds.com/python-pandas
 
+
+11.pandas https://www.dataquest.io/blog/pandas-cheat-sheet/
