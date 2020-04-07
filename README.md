@@ -42,3 +42,5 @@ http://python-ds.com/python-pandas
 
 
 11.pandas https://www.dataquest.io/blog/pandas-cheat-sheet/
+
+12.pandas https://www.w3resource.com/python-exercises/pandas/index.php
