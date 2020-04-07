@@ -44,3 +44,7 @@ http://python-ds.com/python-pandas
 11.pandas https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 12.pandas https://www.w3resource.com/python-exercises/pandas/index.php
+
+13.pandas https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
+
+14.pandas https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
