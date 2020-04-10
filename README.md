@@ -48,3 +48,5 @@ http://python-ds.com/python-pandas
 13.pandas https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
 
 14.pandas https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
+
+15.pandas https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
