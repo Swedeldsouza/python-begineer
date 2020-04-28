@@ -50,3 +50,5 @@ http://python-ds.com/python-pandas
 14.pandas https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
 
 15.pandas https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
+
+16.numpy https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
