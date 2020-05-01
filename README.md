@@ -52,3 +52,5 @@ http://python-ds.com/python-pandas
 15.pandas https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
 
 16.numpy https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+
+17.geeks :https://www.geeksforgeeks.org/python-programming-language/
