@@ -35,15 +35,13 @@ https://data-flair.training/blogs/python-exec-function/
 https://data-flair.training/blogs/python-repr-function/
 
 
+10.pandas :
+ http://python-ds.com/python-pandas
 
 
-10.pandas 
-http://python-ds.com/python-pandas
+11.pandas : https://www.dataquest.io/blog/pandas-cheat-sheet/
 
-
-11.pandas https://www.dataquest.io/blog/pandas-cheat-sheet/
-
-12.pandas https://www.w3resource.com/python-exercises/pandas/index.php
+12.pandas : https://www.w3resource.com/python-exercises/pandas/index.php
 
 13.pandas https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
 
