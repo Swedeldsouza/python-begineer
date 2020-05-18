@@ -1,29 +1,29 @@
 # python-begineer
 
-1.Random number 
+1.Random number :
 https://data-flair.training/blogs/python-random-number/
 
 
-2.variable and data types
+2.variable and data types :
 https://data-flair.training/blogs/python-variables-and-data-types/
 
 
-3.built in function 
+3.built in function :
 https://data-flair.training/blogs/python-built-in-functions/
 
 
-4.String function
+4.String function :
 https://data-flair.training/blogs/python-string/
 
 
-5.Range () function
+5.Range () function :
 https://data-flair.training/blogs/python-range-function/
 
 
-6.zip function 
+6.zip function :
 https://data-flair.training/blogs/python-zip-function/
 
-7.Eval function
+7.Eval function :
 https://data-flair.training/blogs/python-eval-function/
 
 
@@ -51,6 +51,6 @@ http://python-ds.com/python-pandas
 
 15.pandas https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
 
-16.numpy https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
+16.numpy  : https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
 
-17.geeks :https://www.geeksforgeeks.org/python-programming-language/
+17.geeks : https://www.geeksforgeeks.org/python-programming-language/
