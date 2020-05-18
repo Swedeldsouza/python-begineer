@@ -27,12 +27,12 @@
  https://data-flair.training/blogs/python-eval-function/
 
 
-8.Exec Function
-https://data-flair.training/blogs/python-exec-function/
+8.Exec Function :
+ https://data-flair.training/blogs/python-exec-function/
 
 
-9.repr function
-https://data-flair.training/blogs/python-repr-function/
+9.repr function :
+ https://data-flair.training/blogs/python-repr-function/
 
 
 10.pandas :
@@ -43,11 +43,11 @@ https://data-flair.training/blogs/python-repr-function/
 
 12.pandas : https://www.w3resource.com/python-exercises/pandas/index.php
 
-13.pandas https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
+13.pandas : https://towardsdatascience.com/my-python-pandas-cheat-sheet-746b11e44368
 
-14.pandas https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
+14.pandas : https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
 
-15.pandas https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
+15.pandas : https://towardsdatascience.com/a-complete-pandas-glossary-for-data-science-a3bdd37febeb
 
 16.numpy  : https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
 
