@@ -52,3 +52,5 @@
 16.numpy  : https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
 
 17.geeks : https://www.geeksforgeeks.org/python-programming-language/
+
+18.python new resource : https://www.javatpoint.com/python-tutorial
