@@ -54,3 +54,5 @@
 17.geeks : https://www.geeksforgeeks.org/python-programming-language/
 
 18.python new resource : https://www.javatpoint.com/python-tutorial
+ 
+                       : https://docs.python.org/3/tutorial/index.html 
